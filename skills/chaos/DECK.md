@@ -34,3 +34,4 @@ ships gets a card (see the harvest loop in SKILL.md).
 23. **Let the data be the joke.** No gags in the chrome; pick a dataset that's funny and present it completely straight.
 24. **The pause button is part of the joke.** Whatever moves, its stop control gets the best label on the page.
 25. **Commit to a bit involving bees.** Historically reliable.
+26. **The smooshable queen**: a crowned queen ambles through the swarm, fleeing the cursor but never fast enough; smoosh her and the screen reads REGICIDE!, the entire swarm hunts your cursor at 1.5x speed, and a new queen hatches anyway. Shipped: bzbzbzbz.bz. Why: a guilt mechanic with no stakes; the punishment is attention and the consequence is more bees.
