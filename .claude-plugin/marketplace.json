@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "actually-useful-ai-chaos",
+  "description": "Inject one well-placed chaotic element into whatever you're building",
+  "owner": {
+    "name": "Luke Steuber",
+    "email": "luke@lukesteuber.com"
+  },
+  "plugins": [
+    {
+      "name": "chaos",
+      "source": "./",
+      "description": "Mixes things up: injects one chaotic element into work in flight, remixes an existing page, or deals a creative constraint before you start. Ships with a deck of bits that grows every time one lands.",
+      "version": "1.0.0",
+      "category": "creativity",
+      "homepage": "https://github.com/actually-useful-ai/chaos"
+    }
+  ]
+}

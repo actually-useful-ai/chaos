@@ -1,0 +1,13 @@
+{
+  "name": "chaos",
+  "version": "1.0.0",
+  "description": "Mixes things up: injects one chaotic element into work in flight, remixes an existing page, or deals a creative constraint before you start.",
+  "author": {
+    "name": "Luke Steuber",
+    "email": "luke@lukesteuber.com"
+  },
+  "homepage": "https://github.com/actually-useful-ai/chaos",
+  "repository": "https://github.com/actually-useful-ai/chaos",
+  "license": "MIT",
+  "keywords": ["creativity", "playfulness", "design", "easter-eggs", "claude-code"]
+}
