@@ -38,8 +38,8 @@ No flags, no modes. Decide from context, in this order:
 
 `DECK.md` in this skill directory holds the cards in two suits:
 
-- **Bits** — chaotic elements that actually shipped, with where and why they worked. Use them as raw material to riff from, not templates to copy. The bit must be re-derived for the new context or it's a rerun.
-- **Constraints** — Oblique-Strategies-style creative frames for DEAL mode ("the error states are the personality").
+- **Bits**: chaotic elements that actually shipped, with where and why they worked. Use them as raw material to riff from, not templates to copy. The bit must be re-derived for the new context or it's a rerun.
+- **Constraints**: Oblique-Strategies-style creative frames for DEAL mode ("the error states are the personality").
 
 Draw by relevance, not randomness: pick the cards whose *mechanism* fits the current surface, then build something new on that mechanism.
 
