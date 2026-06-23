@@ -37,3 +37,9 @@ ships gets a card (see the harvest loop in SKILL.md).
 
 - **bitwheel activation ripple** — a soft cyan ring pulses out from each binary node the instant its bit flips 0→1; the seconds wheel gives a constant quiet heartbeat.
   - Landed because it makes a minimalist binary clock feel alive and intentional without adding any noise — the motion *is* the data changing.
+
+26. **The honest worker bleps.** The element actually doing the job breaks character on a loose, off-beat timer (never on the read itself), then settles back. (Landed: the googly day-tongue flicks out and waggles between readings without ever moving off the true hour.)
+
+27. **A hand drags its own ghost.** When time is read by a moving light, let the live marker trail a short, fading comet of where it just was — recent seconds linger as dim after-images behind the bright now. (Landed: across the searchlight/beacon/horizon light-clocks, the second-hand lamp leaves a decaying wake, so you *see* time pass rather than just tick.)
+
+28. **The mechanism confesses, in the first person.** When a thing behaves oddly on purpose, let it own up in the console — a short, in-character note only the curious (devtools-openers) ever find. (Landed: the *hesitant* clock, whose second hand reaches the hour early and ticks backward before committing, leaves a wry first-person note admitting exactly that — the voice hesitates the same way the hand does, and it costs the face nothing.)
